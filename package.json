@@ -1,0 +1,21 @@
+{
+  "name": "bank-of-bihar-system",
+  "version": "1.0.0",
+  "description": "Banking Transaction Management System for a college project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "banking",
+    "express",
+    "sqlite",
+    "college-project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.20.0"
+  }
+}
